@@ -1,0 +1,11 @@
+name: oilfilter-env
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - streamlit
+      - pandas
+      - numpy
+      - scikit-learn
+      - joblib
+      - python-dateutil
