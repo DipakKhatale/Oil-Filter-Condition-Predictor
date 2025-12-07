@@ -99,7 +99,7 @@ selected_page = st.sidebar.radio("Go to:", PAGES)
 st.markdown("""
 <div class="header">
     <h1>🛠️ Oil Filter Condition Predictor</h1>
-    <p>Aesthetic Multi-Page Dashboard · ML-Powered Analytics</p>
+    <p></p>
 </div>
 """, unsafe_allow_html=True)
 
